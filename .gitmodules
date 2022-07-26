@@ -1,5 +1,0 @@
-[submodule "blank"]
-	path = blank
-	url = https://github.com/MohanadMohsen/Simple-3D-Character.git
-	branch = main
-	shallow = true
